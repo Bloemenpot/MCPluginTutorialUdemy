@@ -1,0 +1,5 @@
+name: BossBars
+version: '${project.version}'
+main: com.bloemenpot.bossbars.BossBars
+api-version: 1.16
+authors: [ Bloemenpot ]
