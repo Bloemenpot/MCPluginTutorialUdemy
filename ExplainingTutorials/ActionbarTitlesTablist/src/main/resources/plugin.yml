@@ -1,0 +1,5 @@
+name: ActionbarTitlesTablist
+version: '${project.version}'
+main: com.bloemenpot.actionbartitlestablist.ActionbarTitlesTablist
+api-version: 1.16
+authors: [ Bloemenpot ]
