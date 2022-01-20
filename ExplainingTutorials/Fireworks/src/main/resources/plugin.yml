@@ -1,0 +1,5 @@
+name: Fireworks
+version: '${project.version}'
+main: com.bloemenpot.fireworks.Fireworks
+api-version: 1.16
+authors: [ Bloemenpot ]
