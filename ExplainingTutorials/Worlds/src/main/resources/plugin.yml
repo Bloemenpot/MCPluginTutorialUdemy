@@ -1,0 +1,5 @@
+name: Worlds
+version: '${project.version}'
+main: com.bloemenpot.worlds.Worlds
+api-version: 1.16
+authors: [ Bloemenpot ]

@@ -1,0 +1,8 @@
+name: Guns
+version: '${project.version}'
+main: com.bloemenpot.guns.Guns
+api-version: 1.16
+authors: [ Bloemenpot ]
+commands:
+  gun:
+

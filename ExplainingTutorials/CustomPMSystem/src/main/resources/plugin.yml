@@ -1,0 +1,8 @@
+name: CustomPMSystem
+version: '${project.version}'
+main: com.bloemenpot.custompmsystem.CustomPMSystem
+api-version: 1.16
+authors: [ Bloemenpot ]
+commands:
+  pm:
+  reply:

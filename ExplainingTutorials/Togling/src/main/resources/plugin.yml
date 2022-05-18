@@ -1,0 +1,5 @@
+name: Togling
+version: '${project.version}'
+main: com.bloemenpot.togling.Togling
+api-version: 1.16
+authors: [ Bloemenpot ]
